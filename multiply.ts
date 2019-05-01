@@ -14,4 +14,4 @@ console.log('x is'+this.x + 'y is'+this.y)
 }
 }
 let point:Demo=new Demo();
-point.multiply(2,3);
+point.multiply(4,5);
