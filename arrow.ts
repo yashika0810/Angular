@@ -5,4 +5,5 @@ let demo=function(value){
 let demo1=(message) =>{
     console.log(message)
 }
+demo();
 //in typescript
