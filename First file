@@ -2,5 +2,5 @@ function demo(value)
 {
 console.log(value);
 }
-var value='hello';
+var value='hello people';
 demo(value);
